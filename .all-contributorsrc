@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rishabh570",
+      "name": "Rishabh Rawat",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/25483260?v=4",
+      "profile": "http://rishabh570.me",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "all-contributors-test",
+  "projectOwner": "Rishabh570",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
